@@ -20,11 +20,11 @@ You can run
 
 `sudo make install`
 
-to install OR run
+to install just the binary OR run
 
 `sudo make install-desktop`
 
-to install for a graphical OS (only tested on Debian-based systems)
+to install the binary and an icon.
 
 ## Uninstall
 
@@ -32,10 +32,10 @@ Run
 
 `sudo make uninstall`
 
-to uninstall OR
+to uninstall the binary only OR
 
 run
 
 `sudo make uninstall-desktop`
 
-to uninstall for graphical OSes
+to uninstall the binary and icon.
