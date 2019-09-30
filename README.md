@@ -1,4 +1,5 @@
 # chainlink-linker
+![chainlink-linker icon](https://github.com/foliagecanine/chainlink-linker/raw/master/res/chainlink.png)
 An easy GUI to create symlinks.
 
 See [LICENSE](https://github.com/foliagecanine/chainlink-linker/blob/master/LICENSE) for licensing information.
